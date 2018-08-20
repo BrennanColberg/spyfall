@@ -74,7 +74,41 @@
         "gas station": "Gas Station",
         "harbor docks": "Harbor Docks",
         "sightseeing bus": "Sightseeing Bus",
+		
+		"great wall": "The Great Wall of China",
+		"white house": "White House",
+		"uw": "The University of Washington",
+		"lighthouse": "Lighthouse",
+		"costco": "Costco",
+		"target": "Target",
+		"zoo": "Zoo",
+		"playground": "Playground",
+		"aquarium": "Aquarium",
+		"graveyard": "Graveyard",
+		
         "roles": {
+			
+			"great wall": {
+				"tourist": "Tourist",
+				"vendor": "Vendor",
+				"translator": "Translator",
+				"tour guide": "Tour Guide",
+				"bus driver": "Bus Driver",
+				"crying child": "Crying Child",
+				"photographer": "Photographer"
+			},
+			"white house": {
+				"president": "President",
+				"chief of staff": "Chief of Staff",
+				"tourist": "Tourist",
+				"protestor": "Protestor",
+				"roof sniper": "Roof Sniper",
+				"secret service": "Secret Service Agent",
+				"first lady": "First Lady"
+			},
+			
+			
+			
             "airplane": {
                 "first class passenger": "First Class Passenger",
                 "air marshall": "Air Marshal",
