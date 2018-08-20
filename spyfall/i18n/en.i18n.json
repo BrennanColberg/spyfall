@@ -85,9 +85,19 @@
 		"playground": "Playground",
 		"aquarium": "Aquarium",
 		"graveyard": "Graveyard",
+        "wedding": "Wedding",
 		
         "roles": {
 			
+            "wedding": {
+                "bride": "Bride",
+                "groom": "Groom",
+                "best man": "Best Man",
+                "maid of honor": "Maid Of Honor",
+                "flower girl": "Flower Girl",
+                "angry ex": "Angry Ex",
+                "overly emotional relative": "Overly Emotional Relative"
+            },
 			"great wall": {
 				"tourist": "Tourist",
 				"vendor": "Vendor",
@@ -116,7 +126,7 @@
 				"tree": "Cherry Tree"
 			},
 			"lighthouse": {
-				"pidgeon": "Pidgeon",
+				"pigeon": "Pigeon",
 				"seagull": "Seagull",
 				"ship captain": "Ship Captain",
 				"groundskeeper": "Groundskeeper",
