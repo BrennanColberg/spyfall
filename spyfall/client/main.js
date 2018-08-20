@@ -2,7 +2,6 @@ import { Template } from 'meteor/templating';
 import { ReactiveVar } from 'meteor/reactive-var';
 
 import './spyfall.html';
-import languageData from './languages.json';
 
 Handlebars.registerHelper('toCapitalCase', function (str) {
   return str.charAt(0).toUpperCase() + str.slice(1);
@@ -47,8 +46,7 @@ function getLanguageDirection() {
 }
 
 function getLanguageList() {
-  // var languages = TAPi18n.getLanguages();
-  var languages = languageData;
+  var languages = TAPi18n.getLanguages();
   var languageList = _.map(languages, function(value, key) {
     var selected = "";
 
