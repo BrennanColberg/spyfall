@@ -106,7 +106,24 @@
 				"secret service": "Secret Service Agent",
 				"first lady": "First Lady"
 			},
-			
+			"uw": {
+				"tourist": "Tourist",
+				"professor": "Professor",
+				"ta": "Teaching Assistant",
+				"student": "Student",
+				"groundskeeper": "Groundskeeper",
+				"dubs": "Dubs",
+				"tree": "Cherry Tree"
+			},
+			"lighthouse": {
+				"pidgeon": "Pidgeon",
+				"seagull": "Seagull",
+				"ship captain": "Ship Captain",
+				"groundskeeper": "Groundskeeper",
+				"lookout": "Lookout",
+				"tourist": "Tourist",
+				"shipwreck": "Shipwreck"
+			},
 			
 			
             "airplane": {
