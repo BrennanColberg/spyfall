@@ -81,14 +81,46 @@
 		"lighthouse": "Lighthouse",
 		"costco": "Costco",
 		"target": "Target",
-		"zoo": "Zoo",
 		"playground": "Playground",
-		"aquarium": "Aquarium",
 		"graveyard": "Graveyard",
         "wedding": "Wedding",
-		
+        "movie theater": "Movie Theater",
+        "mall": "Mall",
+        
         "roles": {
-			
+			"costco": {
+                "shopper": "Shopper",
+                "salesperson": "Salesperson",
+                "sample giver": "Sample Giver",
+                "pizza maker": "Pizza Maker",
+                "person who signs receipt": "Person Who Signs Receipt",
+                "eye examiner": "Eye Examiner",
+                "cart pusher": "Cart Pusher"
+            },
+            "target": {
+                "check out person": "Check Out Person",
+                "shopper": "Shoppers",
+                "target dog": "Target Dog",
+                "dressing room person": "Dressing Room Person",
+                "popcorn seller": "Popcorn Seller"
+            },
+            "playground": {
+                "playground monitor": "Playground Monitor",
+                "kids": "Kids",
+                "bully": "Bully",
+                "teacher": "Teacher",
+                "principal": "Principal",
+                "mean girls": "Mean Girls"
+            },
+		  "graveyard": {
+                "zombie": "Zombie",
+                "sexton": "Sexton",
+                "drug dealer": "Drug Dealer",
+                "Frankenstein": "Frankenstein",
+                "grave robber": "Grave Robber",
+                "emo kid": "Emo Kid",
+                "black cat": "Black Cat"
+            },
             "wedding": {
                 "bride": "Bride",
                 "groom": "Groom",
@@ -134,6 +166,24 @@
 				"tourist": "Tourist",
 				"shipwreck": "Shipwreck"
 			},
+            "movie theater": {
+                "movie goer": "Movie Goer",
+                "counter worker": "Counter Worker",
+                "heckler": "Heckler",
+                "crying baby": "Crying Baby",
+                "new couple": "New Couple",
+                "fans": "Fans",
+                "usher": "Usher"
+            },
+            "mall": {
+                "shopper": "Shopper",
+                "mall cop": "Mall Cop",
+                "cashier": "Cashier",
+                "mall walker": "Mall Walker",
+                "filthy rich people": "Filthy Rich People",
+                "little kid": "Little Kid",
+                "mall vendors": "Mall Vendors"
+            },
 			
 			
             "airplane": {
